@@ -2,6 +2,13 @@
 
 The purpose of this [Expo](https://expo.dev) app is to implement different navigations in React Native.
 
+
+
+https://github.com/imadmi/react-naviagtion/assets/81130422/3f2a87f8-b3eb-417d-aec4-c25ac7b2d613
+
+
+
+
 ## Get started
 
 1. Install dependencies
