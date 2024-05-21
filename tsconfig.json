@@ -13,5 +13,5 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-, "components/TweetContent.jsx"  ]
+, "components/TweetContent.jsx", "components/Tweet.jsx", "app/(tabs)/TweetDetailScreen.jsx"  ]
 }

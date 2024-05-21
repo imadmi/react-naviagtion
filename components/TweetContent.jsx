@@ -11,7 +11,7 @@ const tweetActions = (retweets , comments, likes)  => {
           style={styles.actionButton}
           name="comment"
           size={21}
-          color={theme === "dark" ? "gray" : "#000"}
+          color="#000"
         />
         <Text style={styles.actionText}>{comments}</Text>
       </View>
@@ -20,7 +20,7 @@ const tweetActions = (retweets , comments, likes)  => {
           style={styles.actionButton}
           name="retweet"
           size={22}
-          color={theme === "dark" ? "gray" : "#000"}
+          color="#000"
         />
         <Text style={styles.actionText}>{retweets}</Text>
       </View>
@@ -29,7 +29,7 @@ const tweetActions = (retweets , comments, likes)  => {
           style={styles.actionButton}
           name="heart"
           size={21}
-          color={theme === "dark" ? "gray" : "#000"}
+          color="#000"
         />
         <Text style={styles.actionText}>{likes}</Text>
       </View>
@@ -37,7 +37,7 @@ const tweetActions = (retweets , comments, likes)  => {
         style={styles.actionButton}
         name="share-apple"
         size={23}
-        color={theme === "dark" ? "gray" : "#000"}
+        color="#000"
       />
     </View>
   );
@@ -68,7 +68,7 @@ const TweetContent = ({ tweet }) => {
               numberOfLines={1}
               style={[
                 styles.header,
-                { color: theme === "dark" ? "#FFF" : "#000" },
+                { color: "#000" },
               ]}
             >
               {tweet.author.name}
@@ -82,7 +82,7 @@ const TweetContent = ({ tweet }) => {
           <Text
             style={[
               styles.description,
-              { color: theme === "dark" ? "#FFF" : "#000" },
+              { color: "#000" },
             ]}
           >
             {tweet.fullText}
@@ -162,7 +162,7 @@ const styles = StyleSheet.create({
   },
   actionText: {
     fontSize: 12,
-    color: "#444",
+    color: "#000",
   },
   tweetContentContainer: {
     flexShrink: 1,

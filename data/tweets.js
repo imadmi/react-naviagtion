@@ -1,22 +1,36 @@
 export const tweets = [
   {
     author: {
-      name: "Aram Miquel",
-      screenName: "aram_miquel",
+      name: "Imad Mimouni",
+      screenName: "imad_ait_lmimouni",
       avatar:
-        "https://images.unsplash.com/photo-1649011463206-cb765493f8bf?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=48&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY1MTY1Njk3NA&ixlib=rb-1.2.1&q=80&w=48",
+      "https://cdn.intra.42.fr/users/b88ad373d678b8eadcda9d36ea25f350/imimouni.jpg",
     },
     id: "1480837336535646209",
     fullText:
-      "Apple should pay more attention. It’s unfair to users, but even more to the small developers that play by the rules!",
-    retweetCount: 2,
-    replyCount: 1,
-    favoriteCount: 5,
+    "رُبَّما",
+    retweetCount: 24,
+    replyCount: 71,
+    favoriteCount: 583,
   },
   {
     author: {
-      name: "Gergely Orosz",
-      screenName: "GergelyOrosz",
+      name: "Aymane Max",
+      screenName: "Aymane_ait_lmimouni",
+      avatar:
+        "https://www.obytes.com/_ipx/w_3840,q_75/%2Fassets%2Fauthors%2Favatars%2Faymane.jpg?url=%2Fassets%2Fauthors%2Favatars%2Faymane.jpg&w=3840&q=75",
+    },
+    id: "1480543522465976324",
+    fullText:
+      "bosoli rasi widi o 3ytoli ba sidi",
+    retweetCount: 2,
+    replyCount: 14,
+    favoriteCount: 64,
+  },
+  {
+    author: {
+      name: "Ouss ait lmimouni",
+      screenName: "!pp_ait_lmimouni",
       avatar:
         "https://images.unsplash.com/photo-1649827159600-237a092f95b5?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=48&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY1MTY1Njk5OQ&ixlib=rb-1.2.1&q=80&w=48",
     },
@@ -29,8 +43,8 @@ export const tweets = [
   },
   {
     author: {
-      name: "ryancarson.eth",
-      screenName: "ryancarson",
+      name: "Oussama",
+      screenName: "lmrabti_3alaoui_smaili",
       avatar:
         "https://images.unsplash.com/photo-1650355255329-66a873ebab57?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=48&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY1MTY1Njk3NQ&ixlib=rb-1.2.1&q=80&w=48",
     },
@@ -43,22 +57,8 @@ export const tweets = [
   },
   {
     author: {
-      name: "Cris Miquel",
-      screenName: "crismiquelg",
-      avatar:
-        "https://images.unsplash.com/photo-1650192905858-e0bc957bf390?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=48&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY1MTY1NzEwNw&ixlib=rb-1.2.1&q=80&w=48",
-    },
-    id: "1480543522465976324",
-    fullText:
-      "mi único propósito para 2022 es dejar de despedirme con la mano en las videollamadas como si fuera idiota",
-    retweetCount: 2,
-    replyCount: 14,
-    favoriteCount: 64,
-  },
-  {
-    author: {
-      name: "Lorenzo",
-      screenName: "Kelset",
+      name: "otaita",
+      screenName: "ait_taleb",
       avatar:
         "https://images.unsplash.com/photo-1650346910129-e73df7b26eb0?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=48&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY1MTY1Njk3Nw&ixlib=rb-1.2.1&q=80&w=48",
     },

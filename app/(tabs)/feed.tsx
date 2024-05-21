@@ -32,7 +32,7 @@ export default function Feed() {
   return (
     <SafeAreaView style={{ flex: 1 }}>
       <FlatList
-        data={tweets.slice(0, 30)}
+        data={tweets}
         keyExtractor={(item) => {
           return item.id;
         }}
