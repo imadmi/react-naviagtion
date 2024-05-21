@@ -4,7 +4,10 @@ The purpose of this [Expo](https://expo.dev) app is to implement different navig
 
 
 
-https://github.com/imadmi/react-naviagtion/assets/81130422/3f2a87f8-b3eb-417d-aec4-c25ac7b2d613
+
+
+https://github.com/imadmi/react-naviagtion/assets/81130422/6145934b-b487-46ae-8c60-d13a92bcf0a4
+
 
 
 
